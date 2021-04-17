@@ -1,1 +1,2 @@
 docker  info
+openshift.io/build.number
